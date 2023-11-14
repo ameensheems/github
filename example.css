@@ -2,5 +2,8 @@ h1{
     font-style: italic;
 }
 p{
-    background-color: bisque;
+    background-color: rgb(231, 132, 10);
+}
+body{
+    background-color: antiquewhite;
 }
